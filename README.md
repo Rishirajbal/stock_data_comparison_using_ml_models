@@ -7,6 +7,8 @@ maintain a file structure
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/c1f14e98-9b41-419e-9f6f-a04346c37e3d" />
 
+after setting up the file structure only run the jupyter notebook....
+
 
             
 Results and report are for reference delete them before starting the project.
