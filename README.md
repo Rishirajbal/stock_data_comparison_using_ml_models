@@ -1,5 +1,6 @@
 datset available at 
 https://drive.google.com/drive/folders/1EjlEv57XID0stzUhedlZh-xRQgcdj6Xi?usp=drive_link
+You need access for availing the dataset, do it take permission of the creator....
 
 maintain a file structure 
 
@@ -13,3 +14,8 @@ mini_project/
             Mini_project.py
             
 Results and report are for reference delete them before starting the project.
+
+
+DO provide feedback to make the project even better.
+
+HAPPY CODING!!!!!
